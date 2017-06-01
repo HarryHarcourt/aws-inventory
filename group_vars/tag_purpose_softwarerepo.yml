@@ -1,0 +1,6 @@
+---
+###
+## This file contains the inventory variables for the tag_purpose_softwarerepo groups of servers
+#
+
+cis_httpd_install: { package: httpd, state: present, service: httpd, rstate: started, enabled: true, exception: 123 }

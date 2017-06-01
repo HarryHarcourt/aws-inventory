@@ -1,0 +1,17 @@
+---
+ansible_top: /etc/ansible
+ansible_inventory: "/etc/ansible/aws-inventory"
+ansible_playbooks: "/etc/ansible/aws-playbooks"
+#filesdir: "/etc/ansible/templates"
+#authcfg: "/etc/ansible/templates/auth_config"
+#etcdir: "/etc/ansible/templates/etc"
+#httpddir: "/etc/ansible/templates/etc/httpd"
+#homedir: "/etc/ansible/templates/home"
+#logrdir: "/etc/ansible/templates/etc/logrotate.d"
+#pamdir: "/etc/ansible/templates/etc/pam.d"
+#softrepo: "/InfraRepo/Software"
+#sshdir: "/etc/ansible/templates/etc/ssh"
+#sudodir: "/etc/ansible/templates/etc/sudoers"
+#syscfg: "/etc/ansible/templates/etc/sysconfig"
+#ulbin: "/etc/ansible/templates/ulbin"
+#yumdir: "/etc/ansible/templates/etc/yum"
